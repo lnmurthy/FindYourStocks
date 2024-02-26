@@ -1,5 +1,5 @@
 
-## Project Name: FindYourStocks - Stock Recommendation System**
+## Project Name: FindYourStocks - Stock Recommendation System
 
 **Developers:** Leisha Murthy and Rohan Bhalla
 
